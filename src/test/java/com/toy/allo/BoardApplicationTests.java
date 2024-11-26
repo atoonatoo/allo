@@ -1,4 +1,4 @@
-package com.practice.board;
+package com.toy.allo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
