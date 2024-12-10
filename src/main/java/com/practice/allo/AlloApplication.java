@@ -1,13 +1,13 @@
-package com.practice.board;
+package com.practice.allo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BoardApplication {
+public class AlloApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BoardApplication.class, args);
+        SpringApplication.run(AlloApplication.class, args);
     }
 
 }
